@@ -9,7 +9,14 @@ body {
 
 h1 {
     text-align: center;
-    color: teal;
+    color: cornflowerblue;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 300px;
+    font-size: 200px;
+}
+
+img{
+    height: 90px;
+    width: 100px;
+    cursor: vertical-text;
+    margin-left: 20px;
 }
