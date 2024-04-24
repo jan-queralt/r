@@ -25,4 +25,9 @@ img{
     h1 {
         font-size: 3rem; /* Reducir el tamaño de fuente para dispositivos móviles */
     }
+
+    img{
+        height: 30px;
+        width: 30px;
+    }
 }
